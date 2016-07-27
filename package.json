@@ -1,0 +1,21 @@
+{
+  "name": "haiscommond",
+  "version": "0.0.2",
+  "description": "通用方法集成",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha test/deployData.test.js",
+    "start": "node main"
+  },
+  "keywords": [
+    "haiscommond"
+  ],
+  "author": "witt",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  },
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}

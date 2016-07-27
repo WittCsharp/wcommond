@@ -1,0 +1,1653 @@
+{
+  "FCT":{
+    "code": "FCT",
+    "engName": "5-Fluorocytosine",
+    "cnName": "5-氟胞嘧啶",
+    "keyname":"5-氟胞嘧啶"
+  },
+  "ACM":{
+    "code": "ACM",
+    "engName": "Acetylmidecamycin",
+    "cnName": "乙酰麦迪霉素"
+  },
+  "ASP":{
+    "code": "ASP",
+    "engName": "Acetylspiramycin",
+    "cnName": "乙酰螺旋霉素"
+  },
+  "AMK":{
+    "code": "AMK",
+    "engName": "Amikacin",
+    "cnName": "阿米卡星"
+  },
+  "AMX":{
+    "code": "AMX",
+    "engName": "Amoxicillin",
+    "cnName": "阿莫西林"
+  },
+  "AMC":{
+    "code": "AMC",
+    "engName": "Amoxicillin/Clavulanic acid",
+    "cnName": "阿莫西林/克拉维酸"
+  },
+  "AXS":{
+    "code": "AXS",
+    "engName": "Amoxicillin/Sulbactam",
+    "cnName": "阿莫西林/舒巴坦"
+  },
+  "AMB":{
+    "code": "AMB",
+    "engName": "Amphotericin B",
+    "cnName": "两性霉素B"
+  },
+  "AMP":{
+    "code": "AMP",
+    "engName": "Ampicillin",
+    "cnName": "氨苄西林"
+  },
+  "SAM":{
+    "code": "SAM",
+    "engName": "Ampicillin/Sulbactam",
+    "cnName": "氨苄西林/舒巴坦"
+  },
+  "AMR":{
+    "code": "AMR",
+    "engName": "Amprolium",
+    "cnName": "氨丙啉"
+  },
+  "ANI":{
+    "code": "ANI",
+    "engName": "Anidulafungin",
+    "cnName": "阿尼芬净"
+  },
+  "APL":{
+    "code": "APL",
+    "engName": "Apalcillin",
+    "cnName": "阿帕西林"
+  },
+  "APR":{
+    "code": "APR",
+    "engName": "Apramycin",
+    "cnName": "安普霉素"
+  },
+  "ARB":{
+    "code": "ARB",
+    "engName": "Arbekacin",
+    "cnName": "阿贝卡星"
+  },
+  "APX":{
+    "code": "APX",
+    "engName": "Aspoxicillin",
+    "cnName": "阿扑西林"
+  },
+  "AST":{
+    "code": "AST",
+    "engName": "Astromicin",
+    "cnName": "阿司米星"
+  },
+  "AVI":{
+    "code": "AVI",
+    "engName": "Avilamycin",
+    "cnName": "阿维霉素"
+  },
+  "AVO":{
+    "code": "AVO",
+    "engName": "Avoparcin",
+    "cnName": "阿伏帕星"
+  },
+  "AZM":{
+    "code": "AZM",
+    "engName": "Azithromycin",
+    "cnName": "阿奇霉素"
+  },
+  "AZL":{
+    "code": "AZL",
+    "engName": "Azlocillin",
+    "cnName": "阿洛西林"
+  },
+  "ATM":{
+    "code": "ATM",
+    "engName": "Aztreonam",
+    "cnName": "氨曲南"
+  },
+  "BAM":{
+    "code": "BAM",
+    "engName": "Bacampicillin",
+    "cnName": "巴氨西林"
+  },
+  "BAC":{
+    "code": "BAC",
+    "engName": "Bacitracin zinc",
+    "cnName": "杆菌肽锌"
+  },
+  "BEK":{
+    "code": "BEK",
+    "engName": "Bekanamycin",
+    "cnName": "氨基去氧卡那霉素"
+  },
+  "BES":{
+    "code": "BES",
+    "engName": "Besifloxacin",
+    "cnName": "贝西沙星"
+  },
+  "BIA":{
+    "code": "BIA",
+    "engName": "Biapenem",
+    "cnName": "比阿培南"
+  },
+  "BCZ":{
+    "code": "BCZ",
+    "engName": "Bicyclomycin (Bicozamycin)",
+    "cnName": "双环霉素"
+  },
+  "BDP":{
+    "code": "BDP",
+    "engName": "Brodimoprim",
+    "cnName": "溴莫普林"
+  },
+  "BUT":{
+    "code": "BUT",
+    "engName": "Butoconazole",
+    "cnName": "布康唑"
+  },
+  "CAP":{
+    "code": "CAP",
+    "engName": "Capreomycin",
+    "cnName": "卷曲霉素"
+  },
+  "CAS":{
+    "code": "CAS",
+    "engName": "Caspofungin",
+    "cnName": "卡泊芬净"
+  },
+  "CRB":{
+    "code": "CRB",
+    "engName": "Carbenicillin",
+    "cnName": "羧苄西林"
+  },
+  "CAR":{
+    "code": "CAR",
+    "engName": "Carumonam",
+    "cnName": "卡芦莫南"
+  },
+  "CAC":{
+    "code": "CAC",
+    "engName": "Cefacetrile",
+    "cnName": "头孢乙腈"
+  },
+  "CEC":{
+    "code": "CEC",
+    "engName": "Cefaclor",
+    "cnName": "头孢克洛"
+  },
+  "CFR":{
+    "code": "CFR",
+    "engName": "Cefadroxil",
+    "cnName": "头孢羟氨苄"
+  },
+  "RID":{
+    "code": "RID",
+    "engName": "Cefaloridine",
+    "cnName": "头孢噻啶"
+  },
+  "MAN":{
+    "code": "MAN",
+    "engName": "Cefamandole",
+    "cnName": "头孢孟多"
+  },
+  "CTZ":{
+    "code": "CTZ",
+    "engName": "Cefatrizine",
+    "cnName": "头孢曲秦"
+  },
+  "CZD":{
+    "code": "CZD",
+    "engName": "Cefazedone",
+    "cnName": "头孢西酮"
+  },
+  "CZO":{
+    "code": "CZO",
+    "engName": "Cefazolin",
+    "cnName": "头孢唑啉"
+  },
+  "CFB":{
+    "code": "CFB",
+    "engName": "Cefbuperazone",
+    "cnName": "头孢拉宗"
+  },
+  "CCP":{
+    "code": "CCP",
+    "engName": "Cefcapene",
+    "cnName": "头孢卡品"
+  },
+  "CCX":{
+    "code": "CCX",
+    "engName": "Cefcapene pivoxil",
+    "cnName": "头孢卡品酯"
+  },
+  "CDR":{
+    "code": "CDR",
+    "engName": "Cefdinir",
+    "cnName": "头孢地尼"
+  },
+  "DIT":{
+    "code": "DIT",
+    "engName": "Cefditoren",
+    "cnName": "头孢妥仑"
+  },
+  "DIX":{
+    "code": "DIX",
+    "engName": "Cefditoren pivoxil",
+    "cnName": "头孢妥仑匹酯"
+  },
+  "FEP":{
+    "code": "FEP",
+    "engName": "Cefepime",
+    "cnName": "头孢吡肟"
+  },
+  "CPC":{
+    "code": "CPC",
+    "engName": "Cefepime/Clavulanic acid",
+    "cnName": "头孢吡肟/克拉维酸"
+  },
+  "CAT":{
+    "code": "CAT",
+    "engName": "Cefetamet",
+    "cnName": "头孢他美"
+  },
+  "CPI":{
+    "code": "CPI",
+    "engName": "Cefetamet pivoxil",
+    "cnName": "头孢他美酯"
+  },
+  "CCL":{
+    "code": "CCL",
+    "engName": "Cefetecol (Cefcatacol)",
+    "cnName": "头孢替考"
+  },
+  "CZL":{
+    "code": "CZL",
+    "engName": "Cefetrizole",
+    "cnName": "头孢三唑"
+  },
+  "CFM":{
+    "code": "CFM",
+    "engName": "Cefixime",
+    "cnName": "头孢克肟"
+  },
+  "CZA":{
+    "code": "CZA",
+    "engName": "Cefizoxime",
+    "cnName": "头孢唑肟"
+  },
+  "CMX":{
+    "code": "CMX",
+    "engName": "Cefmenoxime",
+    "cnName": "头孢甲肟"
+  },
+  "CMZ":{
+    "code": "CMZ",
+    "engName": "Cefmetazole",
+    "cnName": "头孢美唑"
+  },
+  "CNX":{
+    "code": "CNX",
+    "engName": "Cefminox",
+    "cnName": "头孢米诺"
+  },
+  "CDZ":{
+    "code": "CDZ",
+    "engName": "Cefodizime",
+    "cnName": "头孢地秦"
+  },
+  "CID":{
+    "code": "CID",
+    "engName": "Cefonicid",
+    "cnName": "头孢尼西"
+  },
+  "CFP":{
+    "code": "CFP",
+    "engName": "Cefoperazone",
+    "cnName": "头孢哌酮"
+  },
+  "CSL":{
+    "code": "CSL",
+    "engName": "Cefoperazone/Sulbactam",
+    "cnName": "头孢哌酮/舒巴坦"
+  },
+  "CND":{
+    "code": "CND",
+    "engName": "Ceforanide",
+    "cnName": "头孢雷特"
+  },
+  "CSE":{
+    "code": "CSE",
+    "engName": "Cefoselis",
+    "cnName": "头孢噻利"
+  },
+  "CTX":{
+    "code": "CTX",
+    "engName": "Cefotaxime",
+    "cnName": "头孢噻肟"
+  },
+  "CTC":{
+    "code": "CTC",
+    "engName": "Cefotaxime/Clavulanic acid",
+    "cnName": "头孢噻肟/克拉维酸"
+  },
+  "CTS":{
+    "code": "CTS",
+    "engName": "Cefotaxime/Sulbactam",
+    "cnName": "头孢噻肟/舒巴坦"
+  },
+  "CTT":{
+    "code": "CTT",
+    "engName": "Cefotetan",
+    "cnName": "头孢替坦"
+  },
+  "CTF":{
+    "code": "CTF",
+    "engName": "Cefotiam",
+    "cnName": "头孢替安"
+  },
+  "CHE":{
+    "code": "CHE",
+    "engName": "Cefotiam hexetil",
+    "cnName": "头孢替安酯"
+  },
+  "FOX":{
+    "code": "FOX",
+    "engName": "Cefoxitin",
+    "cnName": "头孢西丁"
+  },
+  "ZOP":{
+    "code": "ZOP",
+    "engName": "Cefozopran",
+    "cnName": "头孢唑兰"
+  },
+  "CFZ":{
+    "code": "CFZ",
+    "engName": "Cefpimizole",
+    "cnName": "头孢咪唑"
+  },
+  "CPM":{
+    "code": "CPM",
+    "engName": "Cefpiramide",
+    "cnName": "头孢匹胺"
+  },
+  "CPO":{
+    "code": "CPO",
+    "engName": "Cefpirome",
+    "cnName": "头孢匹罗"
+  },
+  "CPD":{
+    "code": "CPD",
+    "engName": "Cefpodoxime",
+    "cnName": "头孢泊肟"
+  },
+  "CPX":{
+    "code": "CPX",
+    "engName": "Cefpodoxime proxetil",
+    "cnName": "头孢泊肟酯"
+  },
+  "CDC":{
+    "code": "CDC",
+    "engName": "Cefpodoxime/Clavulanic acid",
+    "cnName": "头孢泊肟/克拉维酸"
+  },
+  "CPR":{
+    "code": "CPR",
+    "engName": "Cefprozil",
+    "cnName": "头孢丙烯"
+  },
+  "CEQ":{
+    "code": "CEQ",
+    "engName": "Cefquinome",
+    "cnName": "头孢喹肟"
+  },
+  "CRD":{
+    "code": "CRD",
+    "engName": "Cefroxadine",
+    "cnName": "头孢沙定"
+  },
+  "CFS":{
+    "code": "CFS",
+    "engName": "Cefsulodin",
+    "cnName": "头孢磺啶"
+  },
+  "CSU":{
+    "code": "CSU",
+    "engName": "Cefsumide",
+    "cnName": "头孢舒米"
+  },
+  "CPT":{
+    "code": "CPT",
+    "engName": "Ceftaroline",
+    "cnName": "头孢洛林"
+  },
+  "CAZ":{
+    "code": "CAZ",
+    "engName": "Ceftazidime",
+    "cnName": "头孢他啶"
+  },
+  "CCV":{
+    "code": "CCV",
+    "engName": "Ceftazidime/Clavulanic acid",
+    "cnName": "头孢他啶/克拉维酸"
+  },
+  "CEM":{
+    "code": "CEM",
+    "engName": "Cefteram",
+    "cnName": "头孢特仑"
+  },
+  "CPL":{
+    "code": "CPL",
+    "engName": "Cefteram pivoxil",
+    "cnName": "头孢特仑酯"
+  },
+  "CTL":{
+    "code": "CTL",
+    "engName": "Ceftezole",
+    "cnName": "头孢替唑"
+  },
+  "CTB":{
+    "code": "CTB",
+    "engName": "Ceftibuten",
+    "cnName": "头孢布坦"
+  },
+  "TIO":{
+    "code": "TIO",
+    "engName": "Ceftiofur",
+    "cnName": "头孢噻呋"
+  },
+  "CZX":{
+    "code": "CZX",
+    "engName": "Ceftizoxime",
+    "cnName": "头孢唑肟"
+  },
+  "BPR":{
+    "code": "BPR",
+    "engName": "Ceftobiprole",
+    "cnName": "头孢比托"
+  },
+  "CRO":{
+    "code": "CRO",
+    "engName": "Ceftriaxone",
+    "cnName": "头孢曲松"
+  },
+  "CXM":{
+    "code": "CXM",
+    "engName": "Cefuroxime",
+    "cnName": "头孢呋辛"
+  },
+  "CXA":{
+    "code": "CXA",
+    "engName": "Cefuroxime axetil",
+    "cnName": "头孢呋辛酯"
+  },
+  "ZON":{
+    "code": "ZON",
+    "engName": "Cefuzonam",
+    "cnName": "头孢唑南"
+  },
+  "LEX":{
+    "code": "LEX",
+    "engName": "Cephalexin",
+    "cnName": "头孢氨苄"
+  },
+  "CEP":{
+    "code": "CEP",
+    "engName": "Cephalothin",
+    "cnName": "头孢噻吩"
+  },
+  "HAP":{
+    "code": "HAP",
+    "engName": "Cephapirin",
+    "cnName": "头孢匹林"
+  },
+  "CED":{
+    "code": "CED",
+    "engName": "Cephradine",
+    "cnName": "头孢拉定"
+  },
+  "CTO":{
+    "code": "CTO",
+    "engName": "Cetocycline",
+    "cnName": "西托环素"
+  },
+  "CHL":{
+    "code": "CHL",
+    "engName": "Chloramphenicol",
+    "cnName": "氯霉素"
+  },
+  "CTE":{
+    "code": "CTE",
+    "engName": "Chlortetracycline",
+    "cnName": "金霉素"
+  },
+  "CIC":{
+    "code": "CIC",
+    "engName": "Ciclacillin",
+    "cnName": "环己西林"
+  },
+  "CIN":{
+    "code": "CIN",
+    "engName": "Cinoxacin",
+    "cnName": "西诺沙星"
+  },
+  "CIP":{
+    "code": "CIP",
+    "engName": "Ciprofloxacin",
+    "cnName": "环丙沙星"
+  },
+  "CLR":{
+    "code": "CLR",
+    "engName": "Clarithromycin",
+    "cnName": "克拉霉素"
+  },
+  "CLA":{
+    "code": "CLA",
+    "engName": "Clavulanic acid",
+    "cnName": "克拉维酸"
+  },
+  "CLX":{
+    "code": "CLX",
+    "engName": "Clinafloxacin",
+    "cnName": "克林沙星"
+  },
+  "CLI":{
+    "code": "CLI",
+    "engName": "Clindamycin",
+    "cnName": "克林霉素"
+  },
+  "CLF":{
+    "code": "CLF",
+    "engName": "Clofazimine",
+    "cnName": "氨苯吩嗪"
+  },
+  "CTR":{
+    "code": "CTR",
+    "engName": "Clotrimazole",
+    "cnName": "克霉唑"
+  },
+  "CLO":{
+    "code": "CLO",
+    "engName": "Cloxacillin",
+    "cnName": "氯唑西林"
+  },
+  "COL":{
+    "code": "COL",
+    "engName": "Colistin",
+    "cnName": "粘菌素"
+  },
+  "CYC":{
+    "code": "CYC",
+    "engName": "Cycloserine",
+    "cnName": "环丝氨酸"
+  },
+  "DAL":{
+    "code": "DAL",
+    "engName": "Dalbavancin",
+    "cnName": "达贝万星"
+  },
+  "DFX":{
+    "code": "DFX",
+    "engName": "Danofloxacin",
+    "cnName": "达氟沙星"
+  },
+  "DAP":{
+    "code": "DAP",
+    "engName": "Daptomycin",
+    "cnName": "达托霉素"
+  },
+  "DEM":{
+    "code": "DEM",
+    "engName": "Demeclocycline",
+    "cnName": "地美环素"
+  },
+  "DKB":{
+    "code": "DKB",
+    "engName": "Dibekacin",
+    "cnName": "地贝卡星"
+  },
+  "DIC":{
+    "code": "DIC",
+    "engName": "Dicloxacillin",
+    "cnName": "双氯西林"
+  },
+  "DIF":{
+    "code": "DIF",
+    "engName": "Difloxacin",
+    "cnName": "二氟沙星"
+  },
+  "DIR":{
+    "code": "DIR",
+    "engName": "Dirithromycin",
+    "cnName": "地红霉素"
+  },
+  "DOR":{
+    "code": "DOR",
+    "engName": "Doripenem",
+    "cnName": "多立培南"
+  },
+  "DOX":{
+    "code": "DOX",
+    "engName": "Doxycycline",
+    "cnName": "多西环素"
+  },
+  "ECO":{
+    "code": "ECO",
+    "engName": "Econazole",
+    "cnName": "益康唑"
+  },
+  "ENX":{
+    "code": "ENX",
+    "engName": "Enoxacin",
+    "cnName": "依诺沙星"
+  },
+  "ENR":{
+    "code": "ENR",
+    "engName": "Enrofloxacin",
+    "cnName": "恩氟沙星"
+  },
+  "ENV":{
+    "code": "ENV",
+    "engName": "Enviomycin (Tuberactinomycin)",
+    "cnName": "恩维霉素"
+  },
+  "EPE":{
+    "code": "EPE",
+    "engName": "Eperozolid",
+    "cnName": "Eperozolid"
+  },
+  "EPP":{
+    "code": "EPP",
+    "engName": "Epiroprim",
+    "cnName": "依匹普林"
+  },
+  "ETP":{
+    "code": "ETP",
+    "engName": "Ertapenem",
+    "cnName": "厄他培南"
+  },
+  "ERY":{
+    "code": "ERY",
+    "engName": "Erythromycin",
+    "cnName": "红霉素"
+  },
+  "ETH":{
+    "code": "ETH",
+    "engName": "Ethambutol",
+    "cnName": "乙胺丁醇"
+  },
+  "ETI":{
+    "code": "ETI",
+    "engName": "Ethionamide",
+    "cnName": "乙硫异烟胺"
+  },
+  "ETO":{
+    "code": "ETO",
+    "engName": "Ethopabate",
+    "cnName": "乙氧酰胺苯甲酯"
+  },
+  "FAR":{
+    "code": "FAR",
+    "engName": "Faropenem",
+    "cnName": "法罗培南"
+  },
+  "FDX":{
+    "code": "FDX",
+    "engName": "Fidaxomicin",
+    "cnName": "非达霉素"
+  },
+  "FLA":{
+    "code": "FLA",
+    "engName": "Flavomycin",
+    "cnName": "黄霉素"
+  },
+  "FLE":{
+    "code": "FLE",
+    "engName": "Fleroxacin",
+    "cnName": "氟罗沙星"
+  },
+  "FLO":{
+    "code": "FLO",
+    "engName": "Flomoxef",
+    "cnName": "氟氧头孢"
+  },
+  "FLR":{
+    "code": "FLR",
+    "engName": "Florfenicol",
+    "cnName": "氟苯尼考"
+  },
+  "FLC":{
+    "code": "FLC",
+    "engName": "Flucloxacillin",
+    "cnName": "氟氯西林"
+  },
+  "FLU":{
+    "code": "FLU",
+    "engName": "Fluconazole",
+    "cnName": "氟康唑"
+  },
+  "FLM":{
+    "code": "FLM",
+    "engName": "Flumequine",
+    "cnName": "氟甲喹"
+  },
+  "FFL":{
+    "code": "FFL",
+    "engName": "Fosfluconazole",
+    "cnName": "磷氟康唑"
+  },
+  "FOS":{
+    "code": "FOS",
+    "engName": "Fosfomycin",
+    "cnName": "磷霉素"
+  },
+  "FMD":{
+    "code": "FMD",
+    "engName": "Fosmidomycin",
+    "cnName": "膦胺霉素"
+  },
+  "FRM":{
+    "code": "FRM",
+    "engName": "Framycetin",
+    "cnName": "新霉素"
+  },
+  "FRZ":{
+    "code": "FRZ",
+    "engName": "Furazolidone",
+    "cnName": "呋喃唑酮"
+  },
+  "FUS":{
+    "code": "FUS",
+    "engName": "Fusidic acid",
+    "cnName": "夫西地酸"
+  },
+  "GRN":{
+    "code": "GRN",
+    "engName": "Garenoxacin",
+    "cnName": "加雷沙星"
+  },
+  "GAT":{
+    "code": "GAT",
+    "engName": "Gatifloxacin",
+    "cnName": "加替沙星"
+  },
+  "GEM":{
+    "code": "GEM",
+    "engName": "Gemifloxacin",
+    "cnName": "吉米沙星"
+  },
+  "GEN":{
+    "code": "GEN",
+    "engName": "Gentamicin",
+    "cnName": "庆大霉素"
+  },
+  "GEH":{
+    "code": "GEH",
+    "engName": "Gentamicin-High",
+    "cnName": "高浓度庆大霉素"
+  },
+  "GRX":{
+    "code": "GRX",
+    "engName": "Grepafloxacin",
+    "cnName": "格帕沙星"
+  },
+  "GRI":{
+    "code": "GRI",
+    "engName": "Griseofulvin",
+    "cnName": "灰黄霉素"
+  },
+  "HAB":{
+    "code": "HAB",
+    "engName": "Habekacin",
+    "cnName": "哈贝卡星"
+  },
+  "HET":{
+    "code": "HET",
+    "engName": "Hetacillin",
+    "cnName": "海他西林"
+  },
+  "HYG":{
+    "code": "HYG",
+    "engName": "Hygromycin",
+    "cnName": "潮霉素 B"
+  },
+  "ICL":{
+    "code": "ICL",
+    "engName": "Iclaprim",
+    "cnName": "艾拉普林"
+  },
+  "IPM":{
+    "code": "IPM",
+    "engName": "Imipenem",
+    "cnName": "亚胺培南"
+  },
+  "IPE":{
+    "code": "IPE",
+    "engName": "Imipenem/EDTA",
+    "cnName": "亚胺培南/EDTA"
+  },
+  "ISE":{
+    "code": "ISE",
+    "engName": "Isepamicin",
+    "cnName": "异帕米星"
+  },
+  "ISO":{
+    "code": "ISO",
+    "engName": "Isoconazole",
+    "cnName": "异康唑"
+  },
+  "INH":{
+    "code": "INH",
+    "engName": "Isoniazid",
+    "cnName": "异烟肼"
+  },
+  "ITR":{
+    "code": "ITR",
+    "engName": "Itraconazole",
+    "cnName": "伊曲康唑"
+  },
+  "JOS":{
+    "code": "JOS",
+    "engName": "Josamycin",
+    "cnName": "交沙霉素"
+  },
+  "KAN":{
+    "code": "KAN",
+    "engName": "Kanamycin",
+    "cnName": "卡那霉素"
+  },
+  "KET":{
+    "code": "KET",
+    "engName": "Ketoconazole",
+    "cnName": "酮康唑"
+  },
+  "KIT":{
+    "code": "KIT",
+    "engName": "Kitasamycin (Leucomycin)",
+    "cnName": "吉他霉素"
+  },
+  "LAS":{
+    "code": "LAS",
+    "engName": "Lasalocid",
+    "cnName": "拉沙里菌素"
+  },
+  "LEN":{
+    "code": "LEN",
+    "engName": "Lenampicillin",
+    "cnName": "仑氨西林"
+  },
+  "LVX":{
+    "code": "LVX",
+    "engName": "Levofloxacin",
+    "cnName": "左旋氧氟沙星"
+  },
+  "LIN":{
+    "code": "LIN",
+    "engName": "Lincomycin",
+    "cnName": "林可霉素"
+  },
+  "LSP":{
+    "code": "LSP",
+    "engName": "Linco-spectin",
+    "cnName": "利高霉素"
+  },
+  "LNZ":{
+    "code": "LNZ",
+    "engName": "Linezolid",
+    "cnName": "利奈唑胺"
+  },
+  "LOM":{
+    "code": "LOM",
+    "engName": "Lomefloxacin",
+    "cnName": "洛美沙星"
+  },
+  "LOR":{
+    "code": "LOR",
+    "engName": "Loracarbef",
+    "cnName": "氯碳头孢"
+  },
+  "MAR":{
+    "code": "MAR",
+    "engName": "Marbofloxacin",
+    "cnName": "麻保沙星"
+  },
+  "MEC":{
+    "code": "MEC",
+    "engName": "Mecillinam (Amdinocillin)",
+    "cnName": "美西林 (氮脒青霉素)"
+  },
+  "MEL":{
+    "code": "MEL",
+    "engName": "Meleumycin",
+    "cnName": "麦白霉素"
+  },
+  "MEM":{
+    "code": "MEM",
+    "engName": "Meropenem",
+    "cnName": "美洛培南"
+  },
+  "MES":{
+    "code": "MES",
+    "engName": "Mesulfamide",
+    "cnName": "美磺胺"
+  },
+  "MET":{
+    "code": "MET",
+    "engName": "Methicillin",
+    "cnName": "甲氧西林"
+  },
+  "MTP":{
+    "code": "MTP",
+    "engName": "Metioprim",
+    "cnName": "美替普林"
+  },
+  "MXT":{
+    "code": "MXT",
+    "engName": "Metioxate",
+    "cnName": "甲噻克酯"
+  },
+  "MTR":{
+    "code": "MTR",
+    "engName": "Metronidazole",
+    "cnName": "甲硝唑"
+  },
+  "MEZ":{
+    "code": "MEZ",
+    "engName": "Mezlocillin",
+    "cnName": "美洛西林"
+  },
+  "MSU":{
+    "code": "MSU",
+    "engName": "Mezlocillin/Sulbactam",
+    "cnName": "美洛西林/舒巴坦"
+  },
+  "MIF":{
+    "code": "MIF",
+    "engName": "Micafungin",
+    "cnName": "米卡芬净"
+  },
+  "MCZ":{
+    "code": "MCZ",
+    "engName": "Miconazole",
+    "cnName": "咪康唑"
+  },
+  "MCR":{
+    "code": "MCR",
+    "engName": "Micronomicin",
+    "cnName": "小诺米星"
+  },
+  "MID":{
+    "code": "MID",
+    "engName": "Midecamycin",
+    "cnName": "麦迪霉素"
+  },
+  "MIL":{
+    "code": "MIL",
+    "engName": "Miloxacin",
+    "cnName": "米洛沙星"
+  },
+  "MNO":{
+    "code": "MNO",
+    "engName": "Minocycline",
+    "cnName": "米诺环素"
+  },
+  "MON":{
+    "code": "MON",
+    "engName": "Monensin sodium",
+    "cnName": "莫能菌素钠"
+  },
+  "MOX":{
+    "code": "MOX",
+    "engName": "Moxalactam (Latamoxef)",
+    "cnName": "拉氧头孢"
+  },
+  "MFX":{
+    "code": "MFX",
+    "engName": "Moxifloxacin",
+    "cnName": "莫西沙星"
+  },
+  "MUP":{
+    "code": "MUP",
+    "engName": "Mupirocin",
+    "cnName": "莫匹罗星"
+  },
+  "NAD":{
+    "code": "NAD",
+    "engName": "Nadifloxacin",
+    "cnName": "那氟沙星"
+  },
+  "NAF":{
+    "code": "NAF",
+    "engName": "Nafcillin",
+    "cnName": "萘夫西林"
+  },
+  "NAL":{
+    "code": "NAL",
+    "engName": "Nalidixic acid",
+    "cnName": "萘啶酸"
+  },
+  "NAR":{
+    "code": "NAR",
+    "engName": "Narasin",
+    "cnName": "甲基盐霉素"
+  },
+  "NEO":{
+    "code": "NEO",
+    "engName": "Neomycin",
+    "cnName": "新霉素"
+  },
+  "NET":{
+    "code": "NET",
+    "engName": "Netilmicin",
+    "cnName": "奈替米星"
+  },
+  "NIC":{
+    "code": "NIC",
+    "engName": "Nicarbazin",
+    "cnName": "尼卡巴嗪"
+  },
+  "NIF":{
+    "code": "NIF",
+    "engName": "Nifuroquine",
+    "cnName": "硝呋罗喹"
+  },
+  "NIT":{
+    "code": "NIT",
+    "engName": "Nitrofurantoin",
+    "cnName": "呋喃妥因"
+  },
+  "NIZ":{
+    "code": "NIZ",
+    "engName": "Nitrofurazone",
+    "cnName": "呋喃西林"
+  },
+  "NTR":{
+    "code": "NTR",
+    "engName": "Nitroxoline",
+    "cnName": "硝羟喹啉"
+  },
+  "NOR":{
+    "code": "NOR",
+    "engName": "Norfloxacin",
+    "cnName": "诺氟沙星"
+  },
+  "NVA":{
+    "code": "NVA",
+    "engName": "Norvancomycin",
+    "cnName": "去甲万古霉素"
+  },
+  "NOV":{
+    "code": "NOV",
+    "engName": "Novobiocin",
+    "cnName": "新生霉素"
+  },
+  "NYS":{
+    "code": "NYS",
+    "engName": "Nystatin",
+    "cnName": "制霉菌素"
+  },
+  "OFX":{
+    "code": "OFX",
+    "engName": "Ofloxacin",
+    "cnName": "氧氟沙星"
+  },
+  "OLE":{
+    "code": "OLE",
+    "engName": "Oleandomycin",
+    "cnName": "竹桃霉素"
+  },
+  "OPT":{
+    "code": "OPT",
+    "engName": "Optochin",
+    "cnName": "奥普托欣"
+  },
+  "ORB":{
+    "code": "ORB",
+    "engName": "Orbifloxacin",
+    "cnName": "奥比沙星"
+  },
+  "ORI":{
+    "code": "ORI",
+    "engName": "Oritavancin",
+    "cnName": "奥利万星"
+  },
+  "ORS":{
+    "code": "ORS",
+    "engName": "Ormetroprim/Sulfamethoxazole",
+    "cnName": "奥美普林/磺胺甲噁唑"
+  },
+  "ORN":{
+    "code": "ORN",
+    "engName": "Ornidazole",
+    "cnName": "奥硝唑"
+  },
+  "OXA":{
+    "code": "OXA",
+    "engName": "Oxacillin",
+    "cnName": "苯唑西林"
+  },
+  "OXO":{
+    "code": "OXO",
+    "engName": "Oxolinic acid",
+    "cnName": "奥索利酸"
+  },
+  "OXY":{
+    "code": "OXY",
+    "engName": "Oxytetracycline",
+    "cnName": "土霉素"
+  },
+  "PAS":{
+    "code": "PAS",
+    "engName": "P-Aminosalicylic acid",
+    "cnName": "对氨水杨酸"
+  },
+  "PAN":{
+    "code": "PAN",
+    "engName": "Panipenem",
+    "cnName": "帕尼培南"
+  },
+  "PAR":{
+    "code": "PAR",
+    "engName": "Paromomycin",
+    "cnName": "巴龙霉素"
+  },
+  "PAZ":{
+    "code": "PAZ",
+    "engName": "Pazufloxacin",
+    "cnName": "帕珠沙星"
+  },
+  "PEF":{
+    "code": "PEF",
+    "engName": "Pefloxacin",
+    "cnName": "培氟沙星"
+  },
+  "PEN":{
+    "code": "PEN",
+    "engName": "Penicillin G",
+    "cnName": "青霉素G"
+  },
+  "PNV":{
+    "code": "PNV",
+    "engName": "Penicillin V",
+    "cnName": "青霉素V"
+  },
+  "PNO":{
+    "code": "PNO",
+    "engName": "Penicillin/Novobiocin",
+    "cnName": "青霉素/新生霉素"
+  },
+  "PSU":{
+    "code": "PSU",
+    "engName": "Penicillin/Sulbactam",
+    "cnName": "青霉素/舒巴坦"
+  },
+  "PIM":{
+    "code": "PIM",
+    "engName": "Pentisomicin",
+    "cnName": "喷替米星"
+  },
+  "PTZ":{
+    "code": "PTZ",
+    "engName": "Pentizidone",
+    "cnName": "戊齐酮"
+  },
+  "PHE":{
+    "code": "PHE",
+    "engName": "Phenethicillin",
+    "cnName": "非奈西林"
+  },
+  "PMR":{
+    "code": "PMR",
+    "engName": "Pimaricin (Natamycin)",
+    "cnName": "纳他霉素"
+  },
+  "PPA":{
+    "code": "PPA",
+    "engName": "Pipemidic acid",
+    "cnName": "吡哌酸"
+  },
+  "PIP":{
+    "code": "PIP",
+    "engName": "Piperacillin",
+    "cnName": "哌拉西林"
+  },
+  "PIS":{
+    "code": "PIS",
+    "engName": "Piperacillin/Sulbactam",
+    "cnName": "哌拉西林/舒巴坦"
+  },
+  "TZP":{
+    "code": "TZP",
+    "engName": "Piperacillin/Tazobactam",
+    "cnName": "哌拉西林/他唑巴坦"
+  },
+  "PRC":{
+    "code": "PRC",
+    "engName": "Piridicillin",
+    "cnName": "吡地西林"
+  },
+  "PRL":{
+    "code": "PRL",
+    "engName": "Pirlimycin",
+    "cnName": "吡利霉素"
+  },
+  "PIR":{
+    "code": "PIR",
+    "engName": "Piromidic acid",
+    "cnName": "吡咯米酸"
+  },
+  "PME":{
+    "code": "PME",
+    "engName": "Pivmecillinam (Amdinocillin pivoxil)",
+    "cnName": "匹美西林"
+  },
+  "POL":{
+    "code": "POL",
+    "engName": "Polymixin B",
+    "cnName": "多粘菌素B"
+  },
+  "POS":{
+    "code": "POS",
+    "engName": "Posaconazole",
+    "cnName": "泊沙康唑"
+  },
+  "PRX":{
+    "code": "PRX",
+    "engName": "Premafloxacin",
+    "cnName": "沛马沙星"
+  },
+  "PRM":{
+    "code": "PRM",
+    "engName": "Primycin",
+    "cnName": "普利霉素"
+  },
+  "PRI":{
+    "code": "PRI",
+    "engName": "Pristinamycin",
+    "cnName": "普那霉素"
+  },
+  "PRP":{
+    "code": "PRP",
+    "engName": "Propicillin",
+    "cnName": "丙匹西林"
+  },
+  "PKA":{
+    "code": "PKA",
+    "engName": "Propikacin",
+    "cnName": "普匹卡星"
+  },
+  "PTH":{
+    "code": "PTH",
+    "engName": "Prothionamide",
+    "cnName": "丙硫异烟胺"
+  },
+  "PRU":{
+    "code": "PRU",
+    "engName": "Prulifloxacin",
+    "cnName": "普卢利沙星"
+  },
+  "PZA":{
+    "code": "PZA",
+    "engName": "Pyrazinamide",
+    "cnName": "吡嗪酰胺"
+  },
+  "QDA":{
+    "code": "QDA",
+    "engName": "Quinupristin/Dalfopristin",
+    "cnName": "奎奴普丁/达福普汀"
+  },
+  "RAC":{
+    "code": "RAC",
+    "engName": "Ractopamine",
+    "cnName": "雷托巴胺"
+  },
+  "RZM":{
+    "code": "RZM",
+    "engName": "Razupenem",
+    "cnName": "阿祖培南"
+  },
+  "RST":{
+    "code": "RST",
+    "engName": "Ribostamycin",
+    "cnName": "核糖霉素"
+  },
+  "RIB":{
+    "code": "RIB",
+    "engName": "Rifabutin",
+    "cnName": "利福布汀"
+  },
+  "RIF":{
+    "code": "RIF",
+    "engName": "Rifampin",
+    "cnName": "利福平"
+  },
+  "RIT":{
+    "code": "RIT",
+    "engName": "Ritipenem",
+    "cnName": "利替培南"
+  },
+  "RIA":{
+    "code": "RIA",
+    "engName": "Ritipenem acoxil",
+    "cnName": "利替培南酯"
+  },
+  "ROK":{
+    "code": "ROK",
+    "engName": "Rokitamycin",
+    "cnName": "罗他霉素"
+  },
+  "ROS":{
+    "code": "ROS",
+    "engName": "Rosoxacin",
+    "cnName": "罗索沙星"
+  },
+  "RXT":{
+    "code": "RXT",
+    "engName": "Roxithromicin",
+    "cnName": "罗红霉素"
+  },
+  "SAL":{
+    "code": "SAL",
+    "engName": "Salinomycin",
+    "cnName": "沙利霉素"
+  },
+  "SAR":{
+    "code": "SAR",
+    "engName": "Sarafloxacin",
+    "cnName": "沙氟沙星"
+  },
+  "SRX":{
+    "code": "SRX",
+    "engName": "Sarmoxicillin",
+    "cnName": "沙莫沙星"
+  },
+  "SIS":{
+    "code": "SIS",
+    "engName": "Sisomicin",
+    "cnName": "西索米星"
+  },
+  "SIT":{
+    "code": "SIT",
+    "engName": "Sitafloxacin",
+    "cnName": "西他沙星"
+  },
+  "SPX":{
+    "code": "SPX",
+    "engName": "Sparfloxacin",
+    "cnName": "司帕沙星"
+  },
+  "SPT":{
+    "code": "SPT",
+    "engName": "Spectinomycin",
+    "cnName": "大观霉素"
+  },
+  "SPI":{
+    "code": "SPI",
+    "engName": "Spiramycin",
+    "cnName": "螺旋霉素"
+  },
+  "STR":{
+    "code": "STR",
+    "engName": "Streptomycin",
+    "cnName": "链霉素"
+  },
+  "STH":{
+    "code": "STH",
+    "engName": "Streptomycin-High",
+    "cnName": "高浓度链霉素"
+  },
+  "SUL":{
+    "code": "SUL",
+    "engName": "Sulbactam",
+    "cnName": "舒巴坦"
+  },
+  "SBC":{
+    "code": "SBC",
+    "engName": "Sulbenicillin",
+    "cnName": "磺苄西林"
+  },
+  "SUC":{
+    "code": "SUC",
+    "engName": "Sulconazole",
+    "cnName": "硫康唑"
+  },
+  "SUP":{
+    "code": "SUP",
+    "engName": "Sulfachlorpyridazine",
+    "cnName": "磺胺氯达嗪"
+  },
+  "SDI":{
+    "code": "SDI",
+    "engName": "Sulfadiazine",
+    "cnName": "磺胺嘧啶"
+  },
+  "SUD":{
+    "code": "SUD",
+    "engName": "Sulfadimethoxine",
+    "cnName": "磺胺地索辛"
+  },
+  "SDM":{
+    "code": "SDM",
+    "engName": "Sulfadimidine",
+    "cnName": "磺胺二甲嘧啶"
+  },
+  "SZO":{
+    "code": "SZO",
+    "engName": "Sulfamazone",
+    "cnName": "磺胺马宗"
+  },
+  "SUM":{
+    "code": "SUM",
+    "engName": "Sulfamethazine",
+    "cnName": "磺胺二甲嘧啶"
+  },
+  "SMX":{
+    "code": "SMX",
+    "engName": "Sulfamethoxazole",
+    "cnName": "磺胺甲噁唑"
+  },
+  "SNA":{
+    "code": "SNA",
+    "engName": "Sulfasuccinamide",
+    "cnName": "磺胺琥珀酯"
+  },
+  "SUT":{
+    "code": "SUT",
+    "engName": "Sulfathiazole",
+    "cnName": "磺胺噻唑"
+  },
+  "SOX":{
+    "code": "SOX",
+    "engName": "Sulfisoxazole",
+    "cnName": "磺胺异噁唑"
+  },
+  "SSS":{
+    "code": "SSS",
+    "engName": "Sulfonamides",
+    "cnName": "磺胺类"
+  },
+  "SLP":{
+    "code": "SLP",
+    "engName": "Sulopenem",
+    "cnName": "硫培南"
+  },
+  "TAL":{
+    "code": "TAL",
+    "engName": "Talampicillin",
+    "cnName": "酞氨普林"
+  },
+  "TLP":{
+    "code": "TLP",
+    "engName": "Talmetoprim",
+    "cnName": "酞美普林"
+  },
+  "TAZ":{
+    "code": "TAZ",
+    "engName": "Tazobactam",
+    "cnName": "他唑巴坦"
+  },
+  "TEC":{
+    "code": "TEC",
+    "engName": "Teicoplanin",
+    "cnName": "替考拉宁"
+  },
+  "TLV":{
+    "code": "TLV",
+    "engName": "Telavancin",
+    "cnName": "特拉万星"
+  },
+  "TLT":{
+    "code": "TLT",
+    "engName": "Telithromycin",
+    "cnName": "泰利霉素"
+  },
+  "TMX":{
+    "code": "TMX",
+    "engName": "Temafloxacin",
+    "cnName": "替马沙星"
+  },
+  "TEM":{
+    "code": "TEM",
+    "engName": "Temocillin",
+    "cnName": "替莫西林"
+  },
+  "TRB":{
+    "code": "TRB",
+    "engName": "Terbinafine",
+    "cnName": "特比萘芬"
+  },
+  "TRC":{
+    "code": "TRC",
+    "engName": "Terconazole",
+    "cnName": "特康唑"
+  },
+  "TCY":{
+    "code": "TCY",
+    "engName": "Tetracycline",
+    "cnName": "四环素"
+  },
+  "TET":{
+    "code": "TET",
+    "engName": "Tetroxoprim",
+    "cnName": "四氧普林"
+  },
+  "THA":{
+    "code": "THA",
+    "engName": "Thiacetazone",
+    "cnName": "氨硫脲"
+  },
+  "THI":{
+    "code": "THI",
+    "engName": "Thiamphenicol",
+    "cnName": "甲砜霉素"
+  },
+  "TIA":{
+    "code": "TIA",
+    "engName": "Tiamulin",
+    "cnName": "硫姆林"
+  },
+  "TIC":{
+    "code": "TIC",
+    "engName": "Ticarcillin",
+    "cnName": "替卡西林"
+  },
+  "TCC":{
+    "code": "TCC",
+    "engName": "Ticarcillin/Clavulanic acid",
+    "cnName": "替卡西林/克拉维酸"
+  },
+  "TGC":{
+    "code": "TGC",
+    "engName": "Tigecycline",
+    "cnName": "替加环素"
+  },
+  "TBQ":{
+    "code": "TBQ",
+    "engName": "Tilbroquinol",
+    "cnName": "甲溴羟喹"
+  },
+  "TIL":{
+    "code": "TIL",
+    "engName": "Tilmicosin",
+    "cnName": "替米考星"
+  },
+  "TIN":{
+    "code": "TIN",
+    "engName": "Tinidazole",
+    "cnName": "替硝唑"
+  },
+  "TDC":{
+    "code": "TDC",
+    "engName": "Tiodonium chloride",
+    "cnName": "噻碘氯铵"
+  },
+  "TXC":{
+    "code": "TXC",
+    "engName": "Tioxacin",
+    "cnName": "噻克沙星"
+  },
+  "TOB":{
+    "code": "TOB",
+    "engName": "Tobramycin",
+    "cnName": "妥布霉素"
+  },
+  "TFX":{
+    "code": "TFX",
+    "engName": "Tosufloxacin",
+    "cnName": "妥舒沙星"
+  },
+  "TMP":{
+    "code": "TMP",
+    "engName": "Trimethoprim",
+    "cnName": "甲氧苄啶"
+  },
+  "SXT":{
+    "code": "SXT",
+    "engName": "Trimethoprim/Sulfamethoxazole",
+    "cnName": "复方新诺明"
+  },
+  "TRL":{
+    "code": "TRL",
+    "engName": "Troleandomycin",
+    "cnName": "醋竹桃霉素"
+  },
+  "TRO":{
+    "code": "TRO",
+    "engName": "Trospectomycin",
+    "cnName": "丙大观霉素"
+  },
+  "TVA":{
+    "code": "TVA",
+    "engName": "Trovafloxacin",
+    "cnName": "曲伐沙星"
+  },
+  "TYL":{
+    "code": "TYL",
+    "engName": "Tylosin",
+    "cnName": "泰洛星"
+  },
+  "VAN":{
+    "code": "VAN",
+    "engName": "Vancomycin",
+    "cnName": "万古霉素"
+  },
+  "VIO":{
+    "code": "VIO",
+    "engName": "Viomycin",
+    "cnName": "紫霉素"
+  },
+  "VIR":{
+    "code": "VIR",
+    "engName": "Virginiamycine",
+    "cnName": "维吉尼亚霉素"
+  },
+  "VOR":{
+    "code": "VOR",
+    "engName": "Voriconazole",
+    "cnName": "伏立康唑"
+  }
+}
